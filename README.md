@@ -88,14 +88,4 @@ Created interactive dashboards for each business process, including:
 
 ---
 
-## 🔐 DBT Cloud Access (For Reviewers)
 
-If the GitHub repo fails to open links to DBT models, you can log into our DBT Cloud project using:
-
-- **Email:** `datadockers722@gmail.com`  
-- **Password:** `DataWarehouse#722`  
-- [DBT Cloud Project Link](https://cloud.getdbt.com/develop/216373/projects/311465)
-
----
-
-## 📁 Repository Structure
