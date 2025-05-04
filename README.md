@@ -89,3 +89,20 @@ Created interactive dashboards for each business process, including:
 ---
 
 
+## 🖼️ Sample Dashboards
+
+Below are three sample dashboards we created in Power BI based on our data warehouse:
+
+### 📘 Title Sales Dashboard
+Shows total revenue, titles sold, and discount distribution by title and genre. Key insights include top-performing books and their revenue contribution.
+![Title Sales Dashboard](pictures/title_sales_dashboard.jpeg)
+
+### 🏪 Store Sales Dashboard
+Displays revenue and sales performance by store, state, and city. It includes a waterfall chart for store-level contribution and a time-range filter for sales trends.
+![Store Sales Dashboard](pictures/store_sales_dashboard.jpeg)
+
+### 🏢 Publisher-Owned Titles Dashboard
+Highlights the number of titles owned by each publisher, geographic spread, and publication trends. Includes map visual and donut chart by state.
+![Publisher Dashboard](pictures/publisher_dashboar.jpeg)
+
+
